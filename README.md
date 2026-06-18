@@ -1,7 +1,25 @@
-# Algorithms with Java 📚
+# 🧩 DSA
 
-Welcome to **Algorithms with Java**, a repository dedicated to solving Data Structures and Algorithms (DSA) problems using Java. This repo is aimed at building strong problem-solving skills for coding interviews, competitive programming, and mastering algorithmic patterns.
+> My Data Structures & Algorithms practice — solved in **Java**, **C++**, and **Python**.
 
-## About
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+</p>
 
-This repository contains clean, well-documented Java solutions for popular coding problems covering arrays, strings, linked lists, trees, graphs, dynamic programming, and more. The goal is to follow best practices and improve coding efficiency with every problem solved.
+Problems from **LeetCode**, **GeeksforGeeks**, **HackerRank** & **HackerEarth**, organized by topic. A log of my journey to sharpen problem-solving — one problem at a time.
+
+## 📂 Structure
+
+```
+DSA/
+├── Java/      Arrays · Sorting · Binary Search · Stacks · Queues · LeetCode · ...
+├── Cpp/       C++ solutions
+├── Python/    Fundamentals + problem solutions
+└── Book/      Reference material
+```
+
+## 🎯 Topics
+
+`Arrays` · `Strings` · `Sorting` · `Binary Search` · `Recursion` · `Linked Lists` · `Stacks` · `Queues` · `Dynamic Programming`

@@ -1,1 +1,7 @@
 *.class
+
+# Compiled executables
+*.exe
+
+# VS Code editor settings
+.vscode/
